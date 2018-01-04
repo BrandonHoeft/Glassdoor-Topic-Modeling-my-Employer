@@ -4,7 +4,6 @@ author: "Brandon Hoeft"
 date: "March 12, 2017"
 output:
   md_document:
-    variant: markdown_github
     toc: TRUE
     toc_depth: 3
 ---
