@@ -36,6 +36,9 @@ library(topicmodels) # Latent Dirichlet Allocation
 
 ```
 
+# Topic Modeling of NFA Glassdoor Reviews
+  
+
 ## Introduction
 
 My case study focuses on the [Glassdoor employee reviews](https://www.glassdoor.com/Reviews/National-Futures-Association-Reviews-E252718.htm) of my current employer, National Futures Association (NFA). Using these reviews, topic modeling, an increasingly common text analytics approach to learning the pervasive topics from a corpus of documents was explored. The Pros and Cons from each individual review were treated as separate analyses so that topic formation would be grouped by positive topic and negative topic formation to ease the interpretability of the analysis. Learning what topics associate with positive reviews and negative reviews of employees, as provided to a 3rd party reviews website like [www.Glassdoor.com](www.glassdoor.com), may be useful intelligence for HR managers and executives at the company in understanding its *perceived* strengths and weaknesses from an unfiltered employee perspective. 
